@@ -38,5 +38,4 @@ elements.destroyBtn.addEventListener("click", destroyBoxes);
 
 function destroyBoxes() {
   wrapper.innerHTML = "";
-  widthEl = 20;
 }
